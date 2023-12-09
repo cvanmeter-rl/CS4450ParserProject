@@ -16,10 +16,12 @@ To run this parser, you'll need the following environment setup:
 1. **Windows subsystem for Linux**
 2. **Ubunutu on WSL**
 3. **ANTLR4 Tool**
+4. **Python 3 Runtime**
 
 
 ## Installation
-1. Clone the repository: git clone https://github.com/cvanmeter-rl/CS4450ParserProject
+1. pip install antlr4-tools • $ pip install antlr4-python3-runtime
+2. pip install antlr4-python3-runtime
 
 ## How to Run the Parser
 1. Compile ANTLR4 file: antlr4 -Dlanguage=Python3 Expr.g4
