@@ -13,6 +13,9 @@ This project involves the creation of a parser for a subset of the Python progra
 ## Requirements
 ### Environment Setup
 To run this parser, you'll need the following environment setup:
+1. **Windows subsystem for Linux**
+2. **Ubunutu on WSL**
+3. **ANTLR4 Tool**
 
 
 ## Installation
