@@ -20,3 +20,7 @@ To run this parser, you'll need the following environment setup:
 
 ## Installation
 1. Clone the repository: git clone https://github.com/cvanmeter-rl/CS4450ParserProject
+
+## How to Run the Parser
+1. Compile ANTLR4 file: antlr4 -Dlanguage=Python3 Expr.g4
+2. Run testcase: python3 Driver.py "your_testcase_file.py"
