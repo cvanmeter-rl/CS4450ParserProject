@@ -20,7 +20,7 @@ To run this parser, you'll need the following environment setup:
 
 
 ## Installation
-1. pip install antlr4-tools • $ pip install antlr4-python3-runtime
+1. pip install antlr4-tools
 2. pip install antlr4-python3-runtime
 
 ## How to Run the Parser
